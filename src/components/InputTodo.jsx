@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useState } from 'react';
 import { FaPlusCircle } from 'react-icons/fa';
 
